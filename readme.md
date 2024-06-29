@@ -1,5 +1,5 @@
-# Token Name: Bitcoin (BTC)
-
+# Project Title
+Bitcoin(BTC) used to trade and get a command over a digital currency bitcoin.
 ## Description
 
 This smart contract implements a basic token functionality for a cryptocurrency named Bitcoin (BTC). It includes functionalities to mint new tokens and burn existing tokens.
@@ -32,11 +32,6 @@ function burn(address _address, uint _value) public {
     }
 }
 
-### Instructions:
-- *Token Name*: Bitcoin (BTC)
-- *Description*: The smart contract implements basic token functionality for a cryptocurrency named Bitcoin (BTC).
-- *Installing*: Instructions on how to integrate the smart contract into a Solidity environment.
-- *Executing program*: Steps to mint and burn tokens using provided code snippets.
 - *Help*: Contact details for assistance: Shivani Chauhan at [shivanichauhan182004@gmail.com](mailto:shivanichauhan182004@gmail.com).
-- *Authors*: Shivani Chauhan, with email contact provided.
+- *Authors*: Shivani Chauhan, with email contact provided(shivanichauhan182004@gmail.com).
 - *License*: The project is licensed under the MIT License.
